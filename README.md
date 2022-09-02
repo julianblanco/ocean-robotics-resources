@@ -24,5 +24,5 @@
 
 
 ## Papers-from-internet
-	See subfolder
-	https://github.com/julianblanco/ocean-robotics-resources/tree/main/papers-from-internet
+	
+	 [See subfolder for papers](https://github.com/julianblanco/ocean-robotics-resources/tree/main/papers-from-internet)
