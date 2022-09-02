@@ -23,9 +23,6 @@
 		https://www.youtube.com/watch?v=dF1Yb3Fa5sE
 
 
-## Papers
-	Gliders:
-
-	Acoustics:
-
-	Related maritime:
+## Papers-from-internet
+	See subfolder
+	https://github.com/julianblanco/ocean-robotics-resources/tree/main/papers-from-internet
