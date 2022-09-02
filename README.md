@@ -1,8 +1,9 @@
 # underwater-robotics-resources
 
-#videos
+##videos
 
 Cool videos
+
 	NOAA Glider basics and Hurricane modeling 
 		https://www.youtube.com/watch?v=vKXuMpGLulo
 
